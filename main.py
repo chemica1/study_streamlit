@@ -1,5 +1,7 @@
 #from dotenv import load_dotenv
 import streamlit as st #streamlit을 실행시키는 법은 cmd 창에서 streamlit run main.py를 입력하면 됨.
+#배포했음. 주소는 https://studymhn.streamlit.app/
+#github master에 푸쉬만 해주면 자동으로 배포된다.
 #load_dotenv()   # Load environment variables from .env file
 import time
 
